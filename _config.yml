@@ -12,7 +12,7 @@ title                    : "Yifeng Cao"
 title_separator          : "-"
 name                     : &name "Yifeng Cao"
 description              : &description "Columbia Electronic Engineering Master"
-url                      : https://immortalsplay.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://immortalsplay.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "immortalsplay/immortalsplay.github.io"
 
