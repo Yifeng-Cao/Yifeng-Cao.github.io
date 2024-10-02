@@ -25,7 +25,7 @@ author:
   name             : "Yifeng Cao"
   pronouns         : # example: "he/his"  
   bio              : "Columbia University"
-  focus            : "Robotics/RL"
+  focus            : "Robotics/Reinforcement Learning"
   location         : "New York"
   College          : "Columbia University"
   uri              : # URL
@@ -44,7 +44,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  # github           : "academicpages"
+  github           : "https://github.com/immortalsplay"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
