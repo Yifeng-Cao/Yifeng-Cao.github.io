@@ -22,8 +22,8 @@ repository               : "immortalsplay/immortalsplay.github.io"
 author:
   # Biographic information
   avatar           : "github.jpg"
-  name             : "Yifeng Cao"
-  pronouns         : # example: "he/his"  
+  name             : "Yifeng Cao (曹逸峰)"
+  pronouns         : "he/his"  
   bio              : "Columbia University"
   focus            : "Robotics/Reinforcement Learning"
   location         : "New York"
