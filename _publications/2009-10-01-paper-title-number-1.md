@@ -5,7 +5,7 @@ category: conferences
 # permalink: https://arxiv.org/abs/2409.08276
 excerpt: 'While tactile sensing is widely accepted as an important and useful sensing modality, its use pales in comparison to other sensory modalities like vision and proprioception. AnySkin addresses the critical challenges that impede the use of tactile sensing -- versatility, replaceability, and data reusability.'
 date: 2024-09-27
-venue: 'Journal 1'
+venue: 'Sep 27'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2409.08276'
 citation: 'Bhirangi, Raunaq, Venkatesh Pattabiraman, Enes Erciyes, Yifeng Cao, Tess Hellebrekers, and Lerrel Pinto. "AnySkin: Plug-and-play Skin Sensing for Robotic Touch." arXiv preprint arXiv:2409.08276 (2024).'
