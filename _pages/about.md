@@ -11,7 +11,6 @@ I am a Master's student in Electronic Engineering at Columbia University, focusi
 
 Before coming to Columbia University, I worked as a research intern in Professor [Dongbin Zhao's](https://people.ucas.ac.cn/~zhaodongbin?language=en) lab at the Institute of Automation, UCAS, where I focused on embedded systems and reinforcement learning.
 
-You can find my CV here: [CV](https://github.com/immortalsplay/immortalsplay.github.io/raw/main/_pages/CV_main.pdf)
 
 [Email](yc4317@columbia.edu) / [LinkedIn](https://www.linkedin.com/in/yifengcao/)
 
