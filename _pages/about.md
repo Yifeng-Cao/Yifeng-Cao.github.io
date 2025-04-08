@@ -16,7 +16,6 @@ Before coming to Columbia University, I worked as a research intern in Professor
 
 
 
-
 ## Publications
 
 ### Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models
