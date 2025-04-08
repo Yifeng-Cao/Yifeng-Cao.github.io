@@ -19,6 +19,18 @@ Before coming to Columbia University, I worked as a research intern in Professor
 
 ## Publications
 
+### Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models
+
+We leverage the generative process of diffusion policies to compute an uncertainty-based metric based on which the autonomous agent can decide to request operator assistance at deployment time, without requiring any operator interaction during training. Additionally, we show that the same method can be used for efficient data collection for fine-tuning diffusion policies in order to improve their autonomous performance.
+
+<img src="images/hitl-teasor-v2.png" alt="HiTL Demo" width="450">
+
+<small>**Published:** Feb 26, 2025 </small> 
+<small>**Venue:** arXiv </small> 
+
+**[Download Paper](https://arxiv.org/abs/2503.01876)**  
+<!-- **[Project Website](https://visuoskin.github.io/)** -->
+
 ### Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins
 
 ViSk builds on BAKU, a SOTA policy architecture, and AnySkin – a magnetic tactile sensor. We present comprehensive evaluations on four tasks requiring mm-scale precision: Plug insertion, USB insertion, Card swiping, and Book retrieval, and see an average improvement of ~27.5% when using ViSk over vision-only policies across the four tasks. 
